@@ -1,2 +1,0 @@
-# DC-Project
-Design Project
